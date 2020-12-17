@@ -1,6 +1,13 @@
 #box {
-    border: 5px solid black;
-    background-color: coral;
-    padding: 10px;
-    border-radius: 25px;
-  }
+  border: 5px solid black;
+  background-color: coral;
+  padding: 10px;
+  border-radius: 25px;
+}
+
+#descriptionbox {
+  border: 5px solid black;
+  background-color: teal;
+  padding: 10px;
+  border-radius: 25px;
+}
